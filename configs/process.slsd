@@ -1,0 +1,5 @@
+systemd=check;log
+virusa=deny;alert
+virusb=check;watch
+virusc=check;data
+virusd=deny;kill
