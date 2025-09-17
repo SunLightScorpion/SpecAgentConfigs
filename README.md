@@ -1,0 +1,2 @@
+# SpecAgentConfigs
+Configs for SpecAgent
